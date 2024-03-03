@@ -1,6 +1,6 @@
 # Hi there, I'm Sailesh  👋
 
-Experienced Full Stack Software Engineer with a 7+ year track record, specializing in application development for US healthcare. Passionate about creating innovative and efficient solutions that enhance user experiences. Proficient in backend, with a strong foundation in team management.
+Experienced Full Stack Software Engineer with a 7+ year track record, specializing in application development for Health Insurance Industry. Passionate about creating innovative and efficient solutions that enhance user experiences. Proficient in backend, with a strong foundation in team management.
 
 Known for being a fast learner, I thrive on exploring new technologies. I'm a firm believer in keeping things agile, working in harmony with my team, and writing clean code.
 My ability to think outside the box is complemented by a dedication to professional growth, including transitioning into people management. Recently, I've delved into the realms of Generative AI and LLMs, marking a steady evolution into cutting-edge technologies. 
